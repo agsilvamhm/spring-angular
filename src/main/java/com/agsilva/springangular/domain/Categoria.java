@@ -1,14 +1,22 @@
 package com.agsilva.springangular.domain;
 
+import net.bytebuddy.dynamic.loading.InjectionClassLoader;
+
+import javax.persistence.*;
+import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Objects;
 
-public class Categoria {
+@Entity
+public class Categoria implements Serializable {
+        @Id
+        @GeneratedValue(Strategy = GenerationType.IDENTITY)
         private Integer id;
         private String nome;
         private String descricao;
-        private List<Livro> livros = new ArrayList<Livro>();
+        @OneToMany(mappedBy = "categoria")
+        private List<Livro> livros = new ArrayList<>();
 
         public Categoria() {
                 super();

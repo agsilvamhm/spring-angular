@@ -1,13 +1,19 @@
 package com.agsilva.springangular.domain;
 
+import javax.persistence.*;
+import java.io.Serializable;
 import java.util.Objects;
 
-public class Livro {
-
+@Entity
+public class Livro implements Serializable {
+    @Id
+    @GeneratedValue(Strategy = GenerationType.IDENTITY)
     private Integer id;
     private String titulo;
     private String nome_autor;
     private String texto;
+    @ManyToOne
+    @JoinColumn(name="categoria_id")
     private Categoria categoria;
 
     public Livro() {
