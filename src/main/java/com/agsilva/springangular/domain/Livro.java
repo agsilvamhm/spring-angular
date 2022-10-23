@@ -1,16 +1,23 @@
 package com.agsilva.springangular.domain;
 
+import com.sun.istack.NotNull;
+
 import javax.persistence.*;
 import java.io.Serializable;
 import java.util.Objects;
 
 @Entity
 public class Livro implements Serializable {
+    private static final long serialVersionUID = 1L;
+
     @Id
-    @GeneratedValue(Strategy = GenerationType.IDENTITY)
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Integer id;
+    @NotNull
     private String titulo;
+    @NotNull
     private String nome_autor;
+    @NotNull
     private String texto;
     @ManyToOne
     @JoinColumn(name="categoria_id")

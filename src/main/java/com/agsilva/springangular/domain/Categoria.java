@@ -1,5 +1,6 @@
 package com.agsilva.springangular.domain;
 
+import com.sun.istack.NotNull;
 import net.bytebuddy.dynamic.loading.InjectionClassLoader;
 
 import javax.persistence.*;
@@ -10,10 +11,14 @@ import java.util.Objects;
 
 @Entity
 public class Categoria implements Serializable {
+        private static final long serialVersionUID = 1L;
+
         @Id
-        @GeneratedValue(Strategy = GenerationType.IDENTITY)
+        @GeneratedValue(strategy = GenerationType.IDENTITY)
         private Integer id;
+        @NotNull
         private String nome;
+        @NotNull
         private String descricao;
         @OneToMany(mappedBy = "categoria")
         private List<Livro> livros = new ArrayList<>();
