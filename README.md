@@ -13,4 +13,5 @@ https://www.youtube.com/watch?v=daqv69UKJd4&list=PLA8Qj9w4RGkVOj-xGYJCHJ0Ob4CMg-
 Aula 05 - Finalizando classes de domínio - Spring Boot 2 e Angular 10
 https://www.youtube.com/watch?v=46kXDY73yPY&list=PLA8Qj9w4RGkVOj-xGYJCHJ0Ob4CMg-8NI&index=6
 
-
+Aula 06 - Implementando Repository para classes de domínio - Spring Boot 2 e Angular 10
+https://www.youtube.com/watch?v=BQycaA193Yg&list=PLA8Qj9w4RGkVOj-xGYJCHJ0Ob4CMg-8NI&index=7
