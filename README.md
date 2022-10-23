@@ -20,3 +20,6 @@ https://www.youtube.com/watch?v=BQycaA193Yg&list=PLA8Qj9w4RGkVOj-xGYJCHJ0Ob4CMg-
 
 Aula 07 - Instancia automática da base de dados - Spring Boot 2 e Angular 10
 https://www.youtube.com/watch?v=E4mNhiZjedM&list=PLA8Qj9w4RGkVOj-xGYJCHJ0Ob4CMg-8NI&index=8
+
+Aula 08 - Criação do perfil de TESTE - Spring Boot 2 e Angular 10
+https://www.youtube.com/watch?v=pfuRljiI4ts&list=PLA8Qj9w4RGkVOj-xGYJCHJ0Ob4CMg-8NI&index=9
