@@ -15,3 +15,7 @@ https://www.youtube.com/watch?v=46kXDY73yPY&list=PLA8Qj9w4RGkVOj-xGYJCHJ0Ob4CMg-
 
 Aula 06 - Implementando Repository para classes de domínio - Spring Boot 2 e Angular 10
 https://www.youtube.com/watch?v=BQycaA193Yg&list=PLA8Qj9w4RGkVOj-xGYJCHJ0Ob4CMg-8NI&index=7
+[imagem]
+
+Aula 07 - Instancia automática da base de dados - Spring Boot 2 e Angular 10
+https://www.youtube.com/watch?v=E4mNhiZjedM&list=PLA8Qj9w4RGkVOj-xGYJCHJ0Ob4CMg-8NI&index=8
