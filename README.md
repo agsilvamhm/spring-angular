@@ -9,3 +9,8 @@ https://www.youtube.com/watch?v=difOP3u1YIk&list=PLA8Qj9w4RGkVOj-xGYJCHJ0Ob4CMg-
 
 Aula 04 - Iniciando classes de domínio - Spring Boot 2 e Angular 10
 https://www.youtube.com/watch?v=daqv69UKJd4&list=PLA8Qj9w4RGkVOj-xGYJCHJ0Ob4CMg-8NI&index=5
+
+Aula 05 - Finalizando classes de domínio - Spring Boot 2 e Angular 10
+https://www.youtube.com/watch?v=46kXDY73yPY&list=PLA8Qj9w4RGkVOj-xGYJCHJ0Ob4CMg-8NI&index=6
+
+
