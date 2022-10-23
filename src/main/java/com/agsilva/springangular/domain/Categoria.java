@@ -1,7 +1,6 @@
 package com.agsilva.springangular.domain;
 
 import com.sun.istack.NotNull;
-import net.bytebuddy.dynamic.loading.InjectionClassLoader;
 
 import javax.persistence.*;
 import java.io.Serializable;
