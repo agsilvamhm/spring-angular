@@ -23,3 +23,6 @@ https://www.youtube.com/watch?v=E4mNhiZjedM&list=PLA8Qj9w4RGkVOj-xGYJCHJ0Ob4CMg-
 
 Aula 08 - Criação do perfil de TESTE - Spring Boot 2 e Angular 10
 https://www.youtube.com/watch?v=pfuRljiI4ts&list=PLA8Qj9w4RGkVOj-xGYJCHJ0Ob4CMg-8NI&index=9
+
+Aula 09 - Criação do perfil de DEV - Spring Boot 2 e Angular 10
+https://www.youtube.com/watch?v=muBLr5i3hrE&list=PLA8Qj9w4RGkVOj-xGYJCHJ0Ob4CMg-8NI&index=10
