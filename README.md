@@ -26,3 +26,6 @@ https://www.youtube.com/watch?v=pfuRljiI4ts&list=PLA8Qj9w4RGkVOj-xGYJCHJ0Ob4CMg-
 
 Aula 09 - Criação do perfil de DEV - Spring Boot 2 e Angular 10
 https://www.youtube.com/watch?v=muBLr5i3hrE&list=PLA8Qj9w4RGkVOj-xGYJCHJ0Ob4CMg-8NI&index=10
+
+Aula 10 - GET para Categorias - Spring Boot 2 e Angular 10
+https://www.youtube.com/watch?v=3Ya9EmZYXl4&list=PLA8Qj9w4RGkVOj-xGYJCHJ0Ob4CMg-8NI&index=11
