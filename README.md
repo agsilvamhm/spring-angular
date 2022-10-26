@@ -29,3 +29,6 @@ https://www.youtube.com/watch?v=muBLr5i3hrE&list=PLA8Qj9w4RGkVOj-xGYJCHJ0Ob4CMg-
 
 Aula 10 - GET para Categorias - Spring Boot 2 e Angular 10
 https://www.youtube.com/watch?v=3Ya9EmZYXl4&list=PLA8Qj9w4RGkVOj-xGYJCHJ0Ob4CMg-8NI&index=11
+
+Aula 11 - Objeto não encontrado para Categoria - Spring Boot 2 e Angular 10
+https://www.youtube.com/watch?v=8dqh0Tw7-LY&list=PLA8Qj9w4RGkVOj-xGYJCHJ0Ob4CMg-8NI&index=12
