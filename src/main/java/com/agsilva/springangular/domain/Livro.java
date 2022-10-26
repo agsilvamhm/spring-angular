@@ -1,5 +1,6 @@
 package com.agsilva.springangular.domain;
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.sun.istack.NotNull;
 
 import javax.persistence.*;
@@ -19,6 +20,7 @@ public class Livro implements Serializable {
     private String nome_autor;
     @NotNull
     private String texto;
+    @JsonIgnore
     @ManyToOne
     @JoinColumn(name="categoria_id")
     private Categoria categoria;
