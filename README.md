@@ -35,3 +35,6 @@ https://www.youtube.com/watch?v=8dqh0Tw7-LY&list=PLA8Qj9w4RGkVOj-xGYJCHJ0Ob4CMg-
 
 Aula 12 - Padrão DTO para Categorias - Spring Boot 2 e Angular 10
 https://www.youtube.com/watch?v=fS0f1RGIpbw&list=PLA8Qj9w4RGkVOj-xGYJCHJ0Ob4CMg-8NI&index=13
+
+Aula 13 - POST para Categorias - Spring Boot 2 e Angular 10
+https://www.youtube.com/watch?v=JkF-wNvkZm0&list=PLA8Qj9w4RGkVOj-xGYJCHJ0Ob4CMg-8NI&index=14
