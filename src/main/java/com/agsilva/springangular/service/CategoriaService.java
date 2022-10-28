@@ -2,6 +2,7 @@ package com.agsilva.springangular.service;
 
 import com.agsilva.springangular.Repository.CategoriaRepository;
 import com.agsilva.springangular.domain.Categoria;
+import com.agsilva.springangular.dtos.CategoriaDTO;
 import org.hibernate.ObjectNotFoundException;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
@@ -26,6 +27,13 @@ public class CategoriaService{
 
     public Categoria create(Categoria obj){
         obj.setId(null);
+        return repository.save(obj);
+    }
+
+    public Categoria create(Integer id, CategoriaDTO objDTO){
+        Categoria obj = findById(id);
+        obj.setNome(objDTO.getNome());
+        obj.setDescricao(objDTO.getDescricao());
         return repository.save(obj);
     }
 }
