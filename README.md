@@ -68,3 +68,6 @@ https://www.youtube.com/watch?v=wTX_FCA0Sps&list=PLA8Qj9w4RGkVOj-xGYJCHJ0Ob4CMg-
 
 Aula 23 - Tratando erro de validação nos campos das entidades - Spring Boot 2 e Angular 10
 https://www.youtube.com/watch?v=xRd0Sagh8zE&list=PLA8Qj9w4RGkVOj-xGYJCHJ0Ob4CMg-8NI&index=24
+
+Aula 24 - Criando o projeto no Heroku - Spring Boot 2 e Angular 10
+https://www.youtube.com/watch?v=GhG2wa9LzBw&list=PLA8Qj9w4RGkVOj-xGYJCHJ0Ob4CMg-8NI&index=25
