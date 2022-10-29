@@ -50,3 +50,6 @@ https://www.youtube.com/watch?v=cwThhZ9atKg&list=PLA8Qj9w4RGkVOj-xGYJCHJ0Ob4CMg-
 
 Aula 17 - GET por id para Livros - Spring Boot 2 e Angular 10
 https://www.youtube.com/watch?v=DFkYAdCUgGU&list=PLA8Qj9w4RGkVOj-xGYJCHJ0Ob4CMg-8NI&index=18
+
+Aula 18 - Listando todos os Livros com padrão DTO - Spring Boot 2 e Angular 10
+https://www.youtube.com/watch?v=uXYTzms9CMg&list=PLA8Qj9w4RGkVOj-xGYJCHJ0Ob4CMg-8NI&index=19
