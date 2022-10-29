@@ -1,7 +1,9 @@
 package com.agsilva.springangular.dtos;
 
 import com.agsilva.springangular.domain.Livro;
+import org.hibernate.validator.constraints.Length;
 
+import javax.validation.constraints.NotEmpty;
 import java.io.Serializable;
 
 public class LivroDTO implements Serializable {
@@ -9,6 +11,8 @@ public class LivroDTO implements Serializable {
     private static final long serialVersionUID = 1L;
 
     private Integer id;
+    @NotEmpty(message = "Campo TITULO é requerido!")
+    @Length(min = 3, max = 50, message = "O campo TITULO deve ter entre 3 a 50 caracteres")
     private String titulo;
 
     public LivroDTO(){

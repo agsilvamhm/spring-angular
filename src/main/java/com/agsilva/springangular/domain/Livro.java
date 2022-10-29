@@ -2,8 +2,10 @@ package com.agsilva.springangular.domain;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.sun.istack.NotNull;
+import org.hibernate.validator.constraints.Length;
 
 import javax.persistence.*;
+import javax.validation.constraints.NotEmpty;
 import java.io.Serializable;
 import java.util.Objects;
 
@@ -42,14 +44,19 @@ public class Livro implements Serializable {
         return id;
     }
 
+    @NotEmpty(message = "Campo TITULO é requerido!")
+    @Length(min = 3, max = 50, message = "O campo TITULO deve ter entre 3 a 50 caracteres")
     public String getTitulo() {
         return titulo;
     }
-
+    @NotEmpty(message = "Campo NOME DO AUTOR é requerido!")
+    @Length(min = 3, max = 50, message = "O campo NOME DO AUTOR deve ter entre 3 a 50 caracteres")
     public String getNome_autor() {
         return nome_autor;
     }
 
+    @NotEmpty(message = "Campo TEXTO DO AUTOR é requerido!")
+    @Length(min = 10, max = 2000000, message = "O campo TEXTO deve ter entre 10 a 2.000.000 caracteres")
     public String getTexto() {
         return texto;
     }
