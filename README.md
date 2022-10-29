@@ -41,3 +41,9 @@ https://www.youtube.com/watch?v=JkF-wNvkZm0&list=PLA8Qj9w4RGkVOj-xGYJCHJ0Ob4CMg-
 
 Aula 14 - UPDATE para Categorias - Spring Boot 2 e Angular 10
 https://www.youtube.com/watch?v=_M-CkutsIKg&list=PLA8Qj9w4RGkVOj-xGYJCHJ0Ob4CMg-8NI&index=15
+
+Aula 15 - DELETE para Categorias - Spring Boot 2 e Angular 10
+https://www.youtube.com/watch?v=_HLf4I2iqr4&list=PLA8Qj9w4RGkVOj-xGYJCHJ0Ob4CMg-8NI&index=16
+
+Aula 16 - Exceção DataIntegrityViolationException implementada - Spring Boot 2 e Angular 10
+https://www.youtube.com/watch?v=cwThhZ9atKg&list=PLA8Qj9w4RGkVOj-xGYJCHJ0Ob4CMg-8NI&index=17
