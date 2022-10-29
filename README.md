@@ -47,3 +47,6 @@ https://www.youtube.com/watch?v=_HLf4I2iqr4&list=PLA8Qj9w4RGkVOj-xGYJCHJ0Ob4CMg-
 
 Aula 16 - Exceção DataIntegrityViolationException implementada - Spring Boot 2 e Angular 10
 https://www.youtube.com/watch?v=cwThhZ9atKg&list=PLA8Qj9w4RGkVOj-xGYJCHJ0Ob4CMg-8NI&index=17
+
+Aula 17 - GET por id para Livros - Spring Boot 2 e Angular 10
+https://www.youtube.com/watch?v=DFkYAdCUgGU&list=PLA8Qj9w4RGkVOj-xGYJCHJ0Ob4CMg-8NI&index=18
