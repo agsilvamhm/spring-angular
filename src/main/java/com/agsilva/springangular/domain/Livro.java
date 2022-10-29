@@ -58,6 +58,26 @@ public class Livro implements Serializable {
         return categoria;
     }
 
+    public void setId(Integer id) {
+        this.id = id;
+    }
+
+    public void setTitulo(String titulo) {
+        this.titulo = titulo;
+    }
+
+    public void setNome_autor(String nome_autor) {
+        this.nome_autor = nome_autor;
+    }
+
+    public void setTexto(String texto) {
+        this.texto = texto;
+    }
+
+    public void setCategoria(Categoria categoria) {
+        this.categoria = categoria;
+    }
+
     @Override
     public boolean equals(Object o) {
         if (this == o) return true;
