@@ -65,3 +65,6 @@ https://www.youtube.com/watch?v=ZZ81g9H_zhE&list=PLA8Qj9w4RGkVOj-xGYJCHJ0Ob4CMg-
 
 Aula 22 - Ajustes no backend - Spring Boot 2 e Angular 10
 https://www.youtube.com/watch?v=wTX_FCA0Sps&list=PLA8Qj9w4RGkVOj-xGYJCHJ0Ob4CMg-8NI&index=23
+
+Aula 23 - Tratando erro de validação nos campos das entidades - Spring Boot 2 e Angular 10
+https://www.youtube.com/watch?v=xRd0Sagh8zE&list=PLA8Qj9w4RGkVOj-xGYJCHJ0Ob4CMg-8NI&index=24
