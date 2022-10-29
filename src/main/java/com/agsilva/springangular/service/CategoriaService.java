@@ -3,6 +3,7 @@ package com.agsilva.springangular.service;
 import com.agsilva.springangular.Repository.CategoriaRepository;
 import com.agsilva.springangular.domain.Categoria;
 import com.agsilva.springangular.dtos.CategoriaDTO;
+import com.agsilva.springangular.exceptions.DataIntegrityVioletionException;
 import org.hibernate.ObjectNotFoundException;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
@@ -39,6 +40,10 @@ public class CategoriaService{
 
     public void delete(Integer id){
         findById(id);
-        repository.deleteById(id);
+        try {
+          repository.deleteById(id);
+        }catch (DataIntegrityVioletionException e){
+            throw new DataIntegrityVioletionException("Categoria não pode ser deletado!, possui livros associados.");
+        }
     }
 }
