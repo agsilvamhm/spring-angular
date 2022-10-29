@@ -56,3 +56,6 @@ https://www.youtube.com/watch?v=uXYTzms9CMg&list=PLA8Qj9w4RGkVOj-xGYJCHJ0Ob4CMg-
 
 Aula 19 - UPDATE para Livros - Spring Boot 2 e Angular 10
 https://www.youtube.com/watch?v=tNWXzE8WevI&list=PLA8Qj9w4RGkVOj-xGYJCHJ0Ob4CMg-8NI&index=20
+
+Aula 20 - POST para Livros - Spring Boot 2 e Angular 10
+https://www.youtube.com/watch?v=YBqvQjh0Aro&list=PLA8Qj9w4RGkVOj-xGYJCHJ0Ob4CMg-8NI&index=21
