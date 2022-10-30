@@ -74,3 +74,6 @@ https://www.youtube.com/watch?v=GhG2wa9LzBw&list=PLA8Qj9w4RGkVOj-xGYJCHJ0Ob4CMg-
 
 Aula 25 - Iniciando o projeto com Angular CLI - Spring Boot 2 e Angular 10
 https://www.youtube.com/watch?v=83plbDRnnuo&list=PLA8Qj9w4RGkVOj-xGYJCHJ0Ob4CMg-8NI&index=26
+
+Aula 26 - Criando repositório para front end e associando ao projeto local - Spring Boot 2 e Angular
+https://www.youtube.com/watch?v=iBRGyNDIkTc&list=PLA8Qj9w4RGkVOj-xGYJCHJ0Ob4CMg-8NI&index=27
