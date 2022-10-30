@@ -80,3 +80,6 @@ https://www.youtube.com/watch?v=iBRGyNDIkTc&list=PLA8Qj9w4RGkVOj-xGYJCHJ0Ob4CMg-
 
 Aula 27 - Adicionar o Angular Material no projeto - Spring Boot 2 e Angular 10
 https://www.youtube.com/watch?v=l95Qkwwhwis&list=PLA8Qj9w4RGkVOj-xGYJCHJ0Ob4CMg-8NI&index=28
+
+Aula 28 - Implementando o componente HEADER - Spring Boot 2 e Angular 10
+https://www.youtube.com/watch?v=YX8Mr61gIhA&list=PLA8Qj9w4RGkVOj-xGYJCHJ0Ob4CMg-8NI&index=29
