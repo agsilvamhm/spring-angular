@@ -86,3 +86,12 @@ https://www.youtube.com/watch?v=YX8Mr61gIhA&list=PLA8Qj9w4RGkVOj-xGYJCHJ0Ob4CMg-
 
 Aula 29 - Implementando o componente FOOTER - Spring Boot 2 e Angular 10
 https://www.youtube.com/watch?v=nK5nNEqTew0&list=PLA8Qj9w4RGkVOj-xGYJCHJ0Ob4CMg-8NI&index=30
+
+Aula 30 - Implementando o componente NAV - Spring Boot 2 e Angular 10
+https://www.youtube.com/watch?v=FS1vYO1pKQ0&list=PLA8Qj9w4RGkVOj-xGYJCHJ0Ob4CMg-8NI&index=31
+
+Aula 31 - Implementando o componente HOME - Spring Boot 2 e Angular 10
+https://www.youtube.com/watch?v=s2_NH9bgfts&list=PLA8Qj9w4RGkVOj-xGYJCHJ0Ob4CMg-8NI&index=32
+
+Aula 32 - Componente CATEGORIA-READ (Parte 1) - Spring Boot 2 e Angular 10
+https://www.youtube.com/watch?v=j-BSbXSwoEo&list=PLA8Qj9w4RGkVOj-xGYJCHJ0Ob4CMg-8NI&index=33
