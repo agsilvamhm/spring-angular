@@ -71,3 +71,6 @@ https://www.youtube.com/watch?v=xRd0Sagh8zE&list=PLA8Qj9w4RGkVOj-xGYJCHJ0Ob4CMg-
 
 Aula 24 - Criando o projeto no Heroku - Spring Boot 2 e Angular 10
 https://www.youtube.com/watch?v=GhG2wa9LzBw&list=PLA8Qj9w4RGkVOj-xGYJCHJ0Ob4CMg-8NI&index=25
+
+Aula 25 - Iniciando o projeto com Angular CLI - Spring Boot 2 e Angular 10
+https://www.youtube.com/watch?v=83plbDRnnuo&list=PLA8Qj9w4RGkVOj-xGYJCHJ0Ob4CMg-8NI&index=26
