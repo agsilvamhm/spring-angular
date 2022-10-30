@@ -83,3 +83,6 @@ https://www.youtube.com/watch?v=l95Qkwwhwis&list=PLA8Qj9w4RGkVOj-xGYJCHJ0Ob4CMg-
 
 Aula 28 - Implementando o componente HEADER - Spring Boot 2 e Angular 10
 https://www.youtube.com/watch?v=YX8Mr61gIhA&list=PLA8Qj9w4RGkVOj-xGYJCHJ0Ob4CMg-8NI&index=29
+
+Aula 29 - Implementando o componente FOOTER - Spring Boot 2 e Angular 10
+https://www.youtube.com/watch?v=nK5nNEqTew0&list=PLA8Qj9w4RGkVOj-xGYJCHJ0Ob4CMg-8NI&index=30
