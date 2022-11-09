@@ -101,3 +101,9 @@ https://www.youtube.com/watch?v=ri4vVHbA3lE&list=PLA8Qj9w4RGkVOj-xGYJCHJ0Ob4CMg-
 
 Aula 34 - Componente CATEGORIA-READ (Parte 3) - Spring Boot 2 e Angular 10
 https://www.youtube.com/watch?v=AZcqzcldUL0&list=PLA8Qj9w4RGkVOj-xGYJCHJ0Ob4CMg-8NI&index=35
+
+Aula 35 - Componente CATEGORIA-CREATE (Parte 1) - Spring Boot 2 e Angular 10
+https://www.youtube.com/watch?v=vz7lMRXZG1M&list=PLA8Qj9w4RGkVOj-xGYJCHJ0Ob4CMg-8NI&index=36
+
+Aula 36 - Componente CATEGORIA-CREATE (Parte 2) - Spring Boot 2 e Angular 10
+https://www.youtube.com/watch?v=uyARxiqVvPY&list=PLA8Qj9w4RGkVOj-xGYJCHJ0Ob4CMg-8NI&index=37
