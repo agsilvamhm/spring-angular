@@ -107,3 +107,6 @@ https://www.youtube.com/watch?v=vz7lMRXZG1M&list=PLA8Qj9w4RGkVOj-xGYJCHJ0Ob4CMg-
 
 Aula 36 - Componente CATEGORIA-CREATE (Parte 2) - Spring Boot 2 e Angular 10
 https://www.youtube.com/watch?v=uyARxiqVvPY&list=PLA8Qj9w4RGkVOj-xGYJCHJ0Ob4CMg-8NI&index=37
+
+Aula 37 - Componente CATEGORIA-CREATE (Parte 3) - Spring Boot 2 e Angular 10
+https://www.youtube.com/watch?v=HjsTWXHEz3I&list=PLA8Qj9w4RGkVOj-xGYJCHJ0Ob4CMg-8NI&index=38
