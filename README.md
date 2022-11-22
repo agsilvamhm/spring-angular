@@ -92,7 +92,7 @@ https://www.youtube.com/watch?v=FS1vYO1pKQ0&list=PLA8Qj9w4RGkVOj-xGYJCHJ0Ob4CMg-
 
 Aula 31 - Implementando o componente HOME - Spring Boot 2 e Angular 10
 https://www.youtube.com/watch?v=s2_NH9bgfts&list=PLA8Qj9w4RGkVOj-xGYJCHJ0Ob4CMg-8NI&index=32
-[ListaCategorias]!(https://github.com/agsilvamhm/spring-angular/blob/main/imagens/ListaDeCategorias.PNG)
+![ListaCategorias](https://github.com/agsilvamhm/spring-angular/blob/main/imagens/ListaDeCategorias.PNG)
 
 Aula 32 - Componente CATEGORIA-READ (Parte 1) - Spring Boot 2 e Angular 10
 https://www.youtube.com/watch?v=j-BSbXSwoEo&list=PLA8Qj9w4RGkVOj-xGYJCHJ0Ob4CMg-8NI&index=33
